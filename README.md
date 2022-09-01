@@ -1,4 +1,6 @@
-# c-template
+# check-password
+
+A small utility to check password that set via termux-auth package if true or false.
 
 ## Installation
 
@@ -10,7 +12,7 @@
 #### Clone the repo
 
 ```sh
-git clone https://github.com/CanKolay3499/c-template && cd c-template/
+git clone https://github.com/CanKolay3499/check-password && cd check-password/
 ```
 
 #### Compile the code
