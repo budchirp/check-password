@@ -1,6 +1,6 @@
 # check-password
 
-A small utility to check password that set via termux-auth package if true or false.
+A small utility to check password that set via termux-auth package if true or false
 
 ## Installation
 
