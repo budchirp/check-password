@@ -6,7 +6,7 @@ A small utility to check password that set via termux-auth package if true or fa
 
 #### Requirements
 
-1. Clang (gcc)
+1. C compiler (Clang, GCC)
 2. CMake
 
 #### Clone the repo
@@ -22,10 +22,6 @@ mkdir -p build/ && cd build/
 cmake ../ && make -j$(nproc)
 ```
 
-if you are on the fish shell remove the `$` sign.
+> if you are on the fish shell remove the `$` sign.
 
-#### Execute the `out`
-
-```sh
-./out
-```
+#### Do whatever you want with it!
